@@ -26,7 +26,7 @@
 | Project Lead | Rudraksh Rathod | `Rudra-codee` |
 | Data Lead | _Name_ | `github-handle` |
 | ETL Lead | Akhil Nath reddy | `akhilnathreddy` |
-| Analysis Lead | Meka Chaitanya Sai | `github-handle` |
+| Analysis Lead | Meka Chaitanya Sai | `chaitanyasai-meka` |
 | Visualization Lead | Manas Aniruddha Selukar | `manas-2212` |
 | Strategy Lead | Akhil Sharma | `github-handle` |
 | PPT and Quality Lead | Dev Jindal| `Devjin27` |
