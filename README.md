@@ -35,9 +35,9 @@
 
 How can ride cancellations and booking patterns be analysed to improve service reliability and optimise ride allocation across time, location, and vehicle types?
 
-**Core Business Question**
+**Project Description**
 
-> How can ride booking patterns and cancellation behaviour be analysed to reduce cancellations, improve service reliability, and optimize ride allocation across time, location, and vehicle types?
+> This project focuses on analysing ride booking and cancellation patterns in ride-hailing services such as Uber and Ola. The goal is to identify inefficiencies in service delivery, understand customer and driver behaviour, and improve overall operational performance.
 
 **Decision Supported**
 
@@ -99,7 +99,7 @@ How can ride cancellations and booking patterns be analysed to improve service r
 2. Certain locations show consistently higher cancellation rates
 3. Driver-side cancellations are higher for longer-distance rides
 4. Vehicle type significantly impacts completion rates
-5. Payment methods influence cancellation behavior
+5. Payment methods influence cancellation behaviour
 6. High-demand periods lead to service inefficiencies
 7. Short-distance rides have higher completion rates
 8. Pricing variations impact booking success
