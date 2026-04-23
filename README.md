@@ -33,15 +33,15 @@
 
 ## Business Problem
 
-This project focuses on analyzing ride booking and cancellation patterns in ride-hailing services such as Uber and Ola. The goal is to identify inefficiencies in service delivery, understand customer and driver behavior, and improve overall operational performance.
+How can ride cancellations and booking patterns be analysed to improve service reliability and optimise ride allocation across time, location, and vehicle types?
 
 **Core Business Question**
 
-> How can ride booking patterns and cancellation behavior be analyzed to reduce cancellations, improve service reliability, and optimize ride allocation across time, location, and vehicle types?
+> How can ride booking patterns and cancellation behaviour be analysed to reduce cancellations, improve service reliability, and optimize ride allocation across time, location, and vehicle types?
 
 **Decision Supported**
 
-> This analysis enables stakeholders to identify high-cancellation scenarios and take actions such as optimizing driver allocation during peak hours, improving matching efficiency, adjusting pricing strategies, and enhancing overall customer experience.
+> This analysis enables stakeholders to identify high-cancellation scenarios and take actions such as optimising driver allocation during peak hours, improving matching efficiency, adjusting pricing strategies, and enhancing overall customer experience.
 
 ---
 
