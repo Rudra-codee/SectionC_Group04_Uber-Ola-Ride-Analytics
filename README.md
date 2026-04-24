@@ -28,7 +28,7 @@
 | ETL Lead | Akhil Nath reddy | `akhilnathreddy` |
 | Analysis Lead | Meka Chaitanya Sai | `chaitanyasai-meka` |
 | Visualization Lead | Manas Aniruddha Selukar | `manas-2212` |
-| Strategy Lead | Akhil Sharma | `github-handle` |
+| Strategy Lead | Akhil Sharma | `AkhilSharma11681` |
 | PPT and Quality Lead | Dev Jindal| `Devjin27` |
 
 ## Business Problem
